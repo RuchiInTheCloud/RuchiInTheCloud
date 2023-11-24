@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuchiInTheCloud
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning Algorithms and Datastructures
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on interesting consumer oriented projects
 - 📫 How to reach me ...
 
